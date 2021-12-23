@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/index.html",
   "short_name": "Meu Web App",
-  "start_url": "/",
+  "start_url": "/https://jlucratividade.github.io/meuwebapp/",
   "theme_color": "#504949",
   "categories": [],
   "screenshots": [],
