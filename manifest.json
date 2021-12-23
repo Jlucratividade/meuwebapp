@@ -1,15 +1,16 @@
 {
-  "background_color": "#d9d2ea",
-  "description": "Testando Web App",
+  "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Meu Web App",
+  "name": "Testando Web App",
   "orientation": "any",
-  "scope": "/index.html",
-  "short_name": "Meu Web App",
-  "start_url": "/https://jlucratividade.github.io/meuwebapp/",
-  "theme_color": "#504949",
-  "categories": [],
-  "screenshots": [],
-  "shortcuts": []
+  "scope": "/",
+  "short_name": "Testando Web App",
+  "start_url": "/",
+  "theme_color": "#f9f9f9",
+  "icons": [
+    {
+      "src": "images/icons/icon-152x152.png"
+    }
+  ]
 }
